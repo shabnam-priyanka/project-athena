@@ -11,11 +11,11 @@ const WhatWeDo = () => {
     return (
         <div className='container'>
             <div className='text-center p-5'>
-                <h1>What We Do</h1>
+                <h1 style={{fontFamily: 'Abril Fatface'}}>What We Do</h1>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa, facilis.</p>
             </div>
 
-            <div>
+            <div className="whatwedo">
                 <div class="container first-part p-2">
                     <div class="row d-flex justify-content-center">
                         <div class="card-deck">

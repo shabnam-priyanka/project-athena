@@ -12,7 +12,7 @@ const OurAchievement = () => {
         <div className='container'>
             <div className="d-flex flex-wrap">
                 <div className="col-md-4 justify-content-start align-self-center">
-                    <h1>Our Achievement</h1>
+                    <h1 style={{fontFamily: 'Abril Fatface'}}>Our Achievement</h1>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                     Modi magni eligendi expedita quas, rem nam id suscipit quos
                     recusandae enim cum accusamus, nostrum vitae totam dolores
@@ -24,7 +24,7 @@ const OurAchievement = () => {
                     <div class="card m-3" style={{width: '15rem', height:'5rem', borderRadius: '0 50px'}} className='beauty' >
                         <div class="card-body text-dark d-flex">
                             <div>
-                            <img src={happy} alt="" style={{color:'black', width:'50%', height:'50%' }} className='cmn-text' />
+                            <img src={happy} alt="" style={{color:'black', width:'50%', height:'65%' }} className='cmn-text' />
                             </div>
                             <div>
                             <h5 class="card-title cmn-text"> 700+</h5>

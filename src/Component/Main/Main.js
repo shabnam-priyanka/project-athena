@@ -13,11 +13,11 @@ import './Main.css'
 
 const Main = () => {
     return (
-        <div className=' body'>
+        <div className='body'>
             <Navbar></Navbar>
             <div className="d-flex flex-wrap">
                 <div className="col-md-4 justify-content-start align-self-center offset-md-1">
-                    <h1>Florence agency</h1>
+                    <h1 style={{fontFamily: 'Abril Fatface'}}>Florence <br/> agency</h1>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
                         Modi magni eligendi expedita quas, rem nam id suscipit quos
                         recusandae enim cum accusamus, nostrum vitae totam dolores
