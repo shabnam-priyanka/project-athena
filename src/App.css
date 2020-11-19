@@ -1,8 +1,0 @@
-@font-face{
-    font-family: myFirstFont;
-    src: url(../src/image/Rosmatika\ \(DEMO\).ttf);
-}
-
-body{
-    font-family: myFirstFont;
-}
