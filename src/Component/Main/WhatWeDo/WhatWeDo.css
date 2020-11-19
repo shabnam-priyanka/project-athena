@@ -10,3 +10,9 @@
     border: none;
     padding: 3% 2%;
 }
+.whatwedo{
+    background-image: url(../../../image/whatwedo-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}

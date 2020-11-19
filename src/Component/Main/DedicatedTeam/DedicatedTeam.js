@@ -3,7 +3,7 @@ import React from 'react';
 const DedicatedTeam = () => {
     return (
         <div className='container p-5 text-center'>
-            <h1 className='text-center'> Choose Your Dedicated Team</h1>
+            <h1 className='text-center' style={{fontFamily: 'Abril Fatface'}}> Choose Your Dedicated Team</h1>
             <div>
                 <div class="card-deck p-5">
                     <div class="card">
