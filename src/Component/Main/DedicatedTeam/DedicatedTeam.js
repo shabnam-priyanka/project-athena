@@ -3,13 +3,10 @@ import './DedicatedTeam.css';
 
 const DedicatedTeam = () => {
     return (
-<<<<<<< HEAD
         <div className='container p-5 text-center team-container'>
             <h1 className='text-center'> Choose Your Dedicated Team</h1>
-=======
         <div className='container p-5 text-center'>
             <h1 className='text-center' style={{fontFamily: 'Abril Fatface'}}> Choose Your Dedicated Team</h1>
->>>>>>> 0e575691d27fc73f8f52b2b45576e7a4f259df8f
             <div>
                 <div class="card-deck p-5">
                     <div class="card">
@@ -74,6 +71,7 @@ const DedicatedTeam = () => {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     );
 };

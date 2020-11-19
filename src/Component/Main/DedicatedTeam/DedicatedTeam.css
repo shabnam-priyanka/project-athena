@@ -1,7 +1,8 @@
 .team-container{
     background: url(../../../image/team-bg.png) no-repeat;
-    background-size: 100%;
-
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-x: left;
 }
 
 

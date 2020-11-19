@@ -29,10 +29,15 @@ const Main = () => {
                     <img src={image} class="card-img " alt="..." />
                 </div>
             </div>
+            <br/>
             <WhatWeDo></WhatWeDo>
+            <br/>
             <RunningProject></RunningProject>
+            <br/>
             <OurAchievement></OurAchievement>
+            <br/>
             <DedicatedTeam></DedicatedTeam>
+            <br/>
             <DesignRight></DesignRight>
             <Footer></Footer>
         </div>
