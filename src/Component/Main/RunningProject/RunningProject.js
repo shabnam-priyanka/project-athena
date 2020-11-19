@@ -14,7 +14,6 @@ const RunningProject = () => {
                     Modi magni eligendi expedita quas, rem nam id suscipit quos
                     recusandae enim cum accusamus, nostrum vitae totam dolores
                         ipsum possimus! Et, optio! </p>
-
                     <button class="btn btn-success">Get Started</button>
                 </div>
 

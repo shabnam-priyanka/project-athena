@@ -24,7 +24,7 @@ const OurAchievement = () => {
                     <div class="card m-3" style={{width: '15rem', height:'5rem', borderRadius: '0 50px'}} className='beauty' >
                         <div class="card-body text-dark d-flex">
                             <div>
-                            <img src={happy} alt="" style={{color:'black', width:'50%', height:'50%' }} className='cmn-text' />
+                            <img src={happy} alt="" style={{color:'black', width:'50%', height:'65%' }} className='cmn-text' />
                             </div>
                             <div>
                             <h5 class="card-title cmn-text"> 700+</h5>
