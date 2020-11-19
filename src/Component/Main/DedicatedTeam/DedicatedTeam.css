@@ -1,0 +1,43 @@
+.team-container{
+    background: url(../../../image/team-bg.png) no-repeat;
+    background-size: 100%;
+
+}
+
+
+
+.card:hover{
+    border: 2px solid #3CEDCE;
+    grid-template: 75px / 1fr 1fr 1fr;
+}
+hr{
+    background-color: #4FD1CB;
+    height: 0.5px;
+    
+}
+
+.card{
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-team{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	right: -100%;
+}
+.btn-team button{
+	position: absolute;
+    top: 87%;
+    right: 28%;
+    padding: 7px 25px;
+    border: none;
+}
+.card:hover .btn-team{
+	right: 0;
+}
+.card-content{
+    margin-bottom: 70px;
+}

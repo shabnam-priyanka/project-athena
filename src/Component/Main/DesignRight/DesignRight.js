@@ -6,11 +6,21 @@ const DesignRight = () => {
         <div className='container p-5 text-center' >
             <h1>Get your design right, right now</h1>
             <small>Be the first know our latest offers and updates!</small>
-            <Form inline className='justify-content-center' >
-                        <FormControl type="text" placeholder="Search Details" className="lomba" />
-                        <Button variant="success" className='ton'>Search</Button>
+            <div className="row" >
+                <div className="col-md-2">
 
-                </Form>
+                </div>
+                <div className="col-md-8">
+                    <Form className="form-group"  >
+                        <input type="text" className="form-control" name="email" placeholder="Enter Your Email Address..." />
+                        <button className="btn btn-get">Submit</button>
+
+                    </Form>
+                </div>
+                <div className="col-md-2">
+
+                </div>
+            </div>
         </div>
     );
 };
