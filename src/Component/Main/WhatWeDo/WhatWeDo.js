@@ -16,34 +16,34 @@ const WhatWeDo = () => {
             </div>
 
             <div>
-                <div class="container first-part p-5">
+                <div class="container first-part p-2">
                     <div class="row d-flex justify-content-center">
                         <div class="card-deck">
                             <div class="card card-withhover text-center hob">
                                 <img src={image1} class="card-img-top img-fluid w-25 " alt="..." style={{ margin: 'auto'}}/>
                                 <div class="card-body">
-                                    <h4 class="card-text" style={{ color: ' #413960' }}>1500+ Topic</h4>
+                                    <h4 class="card-text" style={{ color: ' #413960' }}>Experience Design</h4>
                                     <p class="card-text"><small class="text-muted">Learn Anythings</small></p>
                                 </div>
                             </div>
                             <div class="card card-withhover text-center hob">
                                 <img src={image2} class="card-img-top img-fluid w-25" alt="..." style={{ margin: 'auto'}} />
                                 <div class="card-body">
-                                    <h4 class="card-text" style={{ color: '#413960' }}>1800+ Students</h4>
+                                    <h4 class="card-text" style={{ color: '#413960' }}>Interface Design</h4>
                                     <p class="card-text"><small class="text-muted">Learn Anythings</small></p>
                                 </div>
                             </div>
                             <div class="card card-withhover text-center hob">
                                 <img src={image3} class="card-img-top img-fluid w-25" alt="..." style={{ margin: 'auto'}}/>
                                 <div class="card-body">
-                                    <h4 class="card-text" style={{ color: ' #413960' }}>9K+ Test Token</h4>
+                                    <h4 class="card-text" style={{ color: ' #413960' }}>Prototyping</h4>
                                     <p class="card-text"><small class="text-muted">Learn Anythings</small></p>
                                 </div>
                             </div>
                             <div class="card card-withhover text-center hob">
                                 <img src={image4} class="card-img-top img-fluid w-25" alt="..." style={{ margin: 'auto'}}/>
                                 <div class="card-body">
-                                    <h4 class="card-text" style={{ color: '#413960' }}>2000+ Student</h4>
+                                    <h4 class="card-text" style={{ color: '#413960' }}>Illustration</h4>
                                     <p class="card-text"><small class="text-muted">Learn Anythings</small></p>
                                 </div>
                             </div>

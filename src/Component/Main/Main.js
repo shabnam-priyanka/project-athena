@@ -7,12 +7,13 @@ import OurAchievement from './OurAchievement/OurAchievement';
 import DedicatedTeam from './DedicatedTeam/DedicatedTeam';
 import DesignRight from './DesignRight/DesignRight';
 import Footer from './Footer/Footer';
+import './Main.css'
 
 
 
 const Main = () => {
     return (
-        <div className='container'>
+        <div className='container body'>
             <Navbar></Navbar>
             <div className="d-inline-flex">
                 <div className="col-md-6 justify-content-start align-self-center offset-md-1">
@@ -25,7 +26,7 @@ const Main = () => {
                     <button class="btn btn-success">Get Started</button>
                 </div>
                 <div className="col-md-6 justify-content-end">
-                    <img src={image} class="card-img" alt="..." />
+                    <img src={image} class="card-img w-75" alt="..." />
                 </div>
             </div>
             <WhatWeDo></WhatWeDo>

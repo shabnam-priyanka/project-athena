@@ -27,8 +27,8 @@ const OurAchievement = () => {
                             <img src={happy} alt="" style={{color:'black', width:'50%', height:'50%' }} className='cmn-text' />
                             </div>
                             <div>
-                            <h5 class="card-title cmn-text"> treatment</h5>
-                            <p class="card-text cmn-text"> content.</p>
+                            <h5 class="card-title cmn-text"> 700+</h5>
+                            <p class="card-text cmn-text"> Happy Clients</p>
                             
                             </div>
                         </div>
@@ -40,8 +40,8 @@ const OurAchievement = () => {
                             <img src={marketing} alt="" style={{color:'black', width:'50%', height:'50%' }} className='cmn-text' />
                             </div>
                             <div>
-                            <h5 class="card-title cmn-text"> treatment</h5>
-                            <p class="card-text cmn-text"> content.</p>
+                            <h5 class="card-title cmn-text">140+</h5>
+                            <p class="card-text cmn-text"> Project Completed</p>
                             
                             </div>
                         </div>
@@ -53,8 +53,8 @@ const OurAchievement = () => {
                             <img src={surface} alt="" style={{color:'black', width:'50%', height:'50%' }} className='cmn-text' />
                             </div>
                             <div>
-                            <h5 class="card-title cmn-text"> treatment</h5>
-                            <p class="card-text cmn-text"> content.</p>
+                            <h5 class="card-title cmn-text">25+</h5>
+                            <p class="card-text cmn-text"> Crazy Minds</p>
                             
                             </div>
                         </div>
@@ -65,8 +65,8 @@ const OurAchievement = () => {
                             <img src={transport} alt="" style={{color:'black', width:'50%', height:'50%' }} className='cmn-text' />
                             </div>
                             <div>
-                            <h5 class="card-title cmn-text"> treatment</h5>
-                            <p class="card-text cmn-text"> content.</p>
+                            <h5 class="card-title cmn-text">75+</h5>
+                            <p class="card-text cmn-text"> Running Projects</p>
                             
                             </div>
                         </div>

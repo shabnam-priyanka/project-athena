@@ -3,10 +3,10 @@ import img from '../../../image/20 [Converted]@2x.png';
 
 const RunningProject = () => {
     return (
-        <div className='container'>
+        <div className='container p-5'>
             <div className="d-inline-flex">
                 <div className="col-md-6 justify-content-end">
-                    <img src={img} class="card-img" alt="..." />
+                    <img src={img} class="card-img w-75" alt="..." />
                 </div>
                 <div className="col-md-6 justify-content-start align-self-center">
                     <h1>Stay Running & Project</h1>
