@@ -18,16 +18,19 @@ const Navbar = () => {
                             <p className="nav-link" >Home <span className="sr-only">(current)</span></p>
                         </li>
                         <li className="nav-item">
-                            <p className="nav-link" >Our Portfolio</p>
+                            <p className="nav-link" >About</p>
                         </li>
                         <li className="nav-item">
-                            <p className="nav-link" >Our Team</p>
+                            <p className="nav-link">Services</p>
                         </li>
                         <li className="nav-item">
-                            <p className="nav-link">Contact Us</p>
+                            <p className="nav-link" >Pricing</p>
+                        </li>
+                        <li className="nav-item">
+                            <p className="nav-link">Our Team</p>
                         </li>
                         <li className="nav-item">              
-                            <button className="nav-link btn btn-dark text-white" style={{ width: '134px' }} > log in </button>
+                            <button className="nav-link btn btn-dark text-white" style={{ width: '134px' }} > Contact Us </button>
                             
                         </li>
                     </ul>
