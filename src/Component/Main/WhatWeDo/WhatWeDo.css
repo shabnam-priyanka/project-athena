@@ -1,0 +1,12 @@
+    .hob:hover{
+        background: #fff;
+        border-radius: 70px 0px;
+        box-shadow: 5px 5px 10px lightgrey;
+        border: none;
+        padding: 3% 2%;
+      }
+.hob{
+    border-radius: 20px 0px 20px 0px;
+    border: none;
+    padding: 3% 2%;
+}
