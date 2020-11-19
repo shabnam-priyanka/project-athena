@@ -10,7 +10,7 @@ import transport from '../../../image/transportation@2x.png';
 const OurAchievement = () => {
     return (
         <div className='container'>
-            <div className="d-inline-flex">
+            <div className="d-flex flex-wrap">
                 <div className="col-md-4 justify-content-start align-self-center">
                     <h1>Our Achievement</h1>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
@@ -71,41 +71,6 @@ const OurAchievement = () => {
                             </div>
                         </div>
                     </div>
-                    {/* <div class="container first-part">
-                        <div class="row d-flex">
-                            <div class="card-deck">
-                                <div class="card card-withhover text-center border w-50">
-                                    <img src={happy} class="card-img-top img-fluid w-50 " alt="..." />
-                                    <div class="card-body">
-                                        <h4 class="card-text" style={{ color: ' #413960' }}>1500+ Topic</h4>
-                                        <p class="card-text"><small class="text-muted">Learn Anythings</small></p>
-                                    </div>
-                                </div>
-                                <div class="card card-withhover text-center">
-                                    <img src={marketing} class="card-img-top img-fluid w-50" alt="..." />
-                                    <div class="card-body">
-                                        <h4 class="card-text" style={{ color: '#413960' }}>1800+ Students</h4>
-                                        <p class="card-text"><small class="text-muted">Learn Anythings</small></p>
-                                    </div>
-                                </div>
-                                <div class="card card-withhover text-center">
-                                    <img src={surface} class="card-img-top img-fluid w-50" alt="..." />
-                                    <div class="card-body">
-                                        <h4 class="card-text" style={{ color: ' #413960' }}>9K+ Test Token</h4>
-                                        <p class="card-text"><small class="text-muted">Learn Anythings</small></p>
-                                    </div>
-                                </div>
-                                <div class="card card-withhover text-center">
-                                    <img src={transport} class="card-img-top img-fluid w-50" alt="..." />
-                                    <div class="card-body">
-                                        <h4 class="card-text" style={{ color: '#413960' }}>2000+ Student</h4>
-                                        <p class="card-text"><small class="text-muted">Learn Anythings</small></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div> */}
                 </div>
             </div>
         </div>

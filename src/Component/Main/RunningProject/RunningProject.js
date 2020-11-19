@@ -3,8 +3,8 @@ import img from '../../../image/20 [Converted]@2x.png';
 
 const RunningProject = () => {
     return (
-        <div className='container p-5'>
-            <div className="d-inline-flex">
+        <div className='container container-fluid p-5'>
+            <div className="d-flex flex-wrap">
                 <div className="col-md-6 justify-content-end">
                     <img src={img} class="card-img w-75" alt="..." />
                 </div>
