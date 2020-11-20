@@ -4,7 +4,7 @@ import './DedicatedTeam.css';
 const DedicatedTeam = () => {
     return (
         <div className='container p-5 text-center team-container'>
-            <h1 className='text-center'> Choose Your Dedicated Team</h1>
+        
         <div className='container p-5 text-center'>
             <h1 className='text-center' style={{fontFamily: 'Abril Fatface'}}> Choose Your Dedicated Team</h1>
             <div>
